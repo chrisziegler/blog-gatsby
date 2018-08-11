@@ -1,0 +1,1 @@
+# Used Gatsby default starter
